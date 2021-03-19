@@ -9,6 +9,6 @@ This tool make download all files of URL and extract metadata of all files with 
 To execute, parse just domain without http or https.
 
 ```
-./exiftool-automation URL
+./exiftool-automation.sh URL
 ```
 
